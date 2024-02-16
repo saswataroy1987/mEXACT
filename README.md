@@ -33,7 +33,7 @@ conda env create -f mexact.yml
    
 ### Details of getData_Explainability.py
  * This python script also prepares the data for news text, user comments and news images.
- * Next, it loads the already saved trained mEXACR model.
+ * Next, it loads the already saved trained mEXACT model.
  * Finally, this script stores the explainable and non-explainable components of news text, user comments and news image by analyzing the MS and LS information. 
 
 
