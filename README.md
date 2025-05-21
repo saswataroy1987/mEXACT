@@ -1,4 +1,7 @@
 # Beyond Just Saying It's False: Explainable AI for Multimodal Misinformation Detection 
+## Authors : __Saswata Roy, Manish Bhanu, Shalini Priya, Joydeep Chandra, Sourav Dandapat__
+###### Paper DOI is found at ...
+
 ## Introduction
 mEXACT finds a variable-size bucket of check-worthy MS information whose removal from a false input sample can invert model prediction. Consequently, the proposed model is capable of distinguishing contributing and non-contributing misinformation elements for better explainability along with outperforming the existing models over classification performance.
 
