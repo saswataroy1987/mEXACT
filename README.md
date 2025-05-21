@@ -1,6 +1,6 @@
 # Beyond Just Saying It's False: Explainable AI for Multimodal Misinformation Detection 
 ## Authors : __Saswata Roy*, Manish Bhanu*, Shalini Priya, Joydeep Chandra, Sourav Dandapat__
-"*" these authors contributed equally o this wok.
+\* these authors contributed equally o this wok.
 ###### Paper DOI is found at ...
 
 ## Introduction
