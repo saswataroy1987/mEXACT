@@ -48,6 +48,7 @@ conda env create -f mexact.yml
 
 
 ## Some correctly predicted reconstructed news images and their corresponding
+![](mexact_predicted.png)
 MS and LS counterparts.
 <table>
   <tr>
