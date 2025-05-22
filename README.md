@@ -49,17 +49,5 @@ conda env create -f mexact.yml
 
 ## Some correctly predicted reconstructed news images and their corresponding
 ![](mexact_predicted.png)
-MS and LS counterparts.
-<table>
-  <tr>
-    <td><img src="URL_to_image1" width="200"/></td>
-    <td><img src="URL_to_image2" width="200"/></td>
-    <td><img src="URL_to_image3" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="URL_to_image4" width="200"/></td>
-    <td><img src="URL_to_image5" width="200"/></td>
-    <td><img src="URL_to_image6" width="200"/></td>
-  </tr>
-</table>
+
 
