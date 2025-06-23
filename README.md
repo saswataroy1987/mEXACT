@@ -7,6 +7,21 @@
 mEXACT finds a variable-size bucket of check-worthy MS information whose removal from a false input sample can invert model prediction. Consequently, the proposed model is capable of distinguishing contributing and non-contributing misinformation elements for better explainability along with outperforming the existing models over classification performance.
 
 
+## If you use the code, we appreciate it if you cite our paper
+~~~~
+@article{roy2025beyond,
+  title={Beyond just saying it’s false: explainable AI for multimodal misinformation detection},
+  author={Roy, Saswata and Bhanu, Manish and Priya, Shalini and Chandra, Joydeep and Dandapat, Sourav Kumar},
+  journal={Applied Intelligence},
+  volume={55},
+  number={11},
+  pages={1--18},
+  year={2025},
+  publisher={Springer}
+}
+
+~~~~
+
 ## Installation
 
 ### Prerequisite
